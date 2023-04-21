@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746288529035",
+    "project_id": "practical-94c23",
+    "storage_bucket": "practical-94c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746288529035:android:0d0f8e8ac20db17f7b9e8e",
+        "android_client_info": {
+          "package_name": "com.mariela.leon.practicalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746288529035-078agcot37lnecsf4iepmh3tstrmd0fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2USkhM_iaf-TzQPcTQlKqV28h817Sgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746288529035-078agcot37lnecsf4iepmh3tstrmd0fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

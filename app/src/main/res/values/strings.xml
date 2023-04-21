@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaLogin</string>
+    <string name="Email">Ingrese su email</string>
+    <string name="Contraseña">Ingrese su contraseña</string>
+    <string name="IniciaSesión">Iniciar Sesion</string>
+    <string name="IniciaS">Iniciar Sesion</string>
+    <string name="CrearC">Crear Cuenta</string>
+    <string name="EmailCrear">Ingrese su Email</string>
+    <string name="ContraCuenta">Ingrese una Contraseña</string>
+    <string name="ConfirmacionContra">Confirmacion de la Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelarC">Cancelar</string>
+</resources>
